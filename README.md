@@ -2,7 +2,7 @@
 
 My third assignment in Java was to build Conway's Game of Life:
 
-_You are required to finish Conway’s Game of Life, based on this template:  ConwaysGameOfLifeTemplate.pdf - Alternative Formats the code snippets and hints in the lecture notes
+You are required to finish Conway’s Game of Life, based on this template:  ConwaysGameOfLifeTemplate.pdf - Alternative Formats the code snippets and hints in the lecture notes
 
 You can use the template as a base which will provide some of the setup and functionality. 
 
@@ -16,5 +16,5 @@ Your tasks will be as follows:
 	    Random: randomises the game state
   •	When in the 'playing' state, apply the rules of Conway’s Game of Life at each repaint.
   •	Implement game state Loading and Saving (via ‘buttons’ as above). 
-  •	Finally, how will you encode the game state as a string?  Explain your answer._
+  •	Finally, how will you encode the game state as a string?  Explain your answer.
 
