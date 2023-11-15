@@ -1,6 +1,6 @@
 # Conway's Game of Life
 
-My third assignment in Java was to build Conway's Game of Life:
+My third assignment in Java completed on **04/04/2021** was to build Conway's Game of Life:
 
 You are required to finish Conway’s Game of Life, based on this template:  ConwaysGameOfLifeTemplate.pdf - Alternative Formats the code snippets and hints in the lecture notes
 
